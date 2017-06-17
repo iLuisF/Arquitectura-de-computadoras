@@ -1,0 +1,10 @@
+help:
+
+Imprime la informacion de los comandos disponibles y sus opciones.
+Si se llama sin argumentos, imprime una lista de los comandos disponibles.
+
+Sinopsis:
+help [args]
+
+Argumentos:
+arg - Imprime la descripcion y opciones del comando args        

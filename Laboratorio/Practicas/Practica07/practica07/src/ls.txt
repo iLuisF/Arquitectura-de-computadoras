@@ -1,0 +1,10 @@
+ls:
+
+Imprime el texto en forma de una lista donde cada espacio es considerado 
+un salto de linea
+
+Sinopsis:
+ls [file]
+
+Argumenos:
+file - el nombre del archivo el cual se hara lista        

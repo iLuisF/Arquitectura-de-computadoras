@@ -1,0 +1,11 @@
+Lista de comandos
+
+help
+
+rev
+
+cat
+
+exit  
+
+ls             

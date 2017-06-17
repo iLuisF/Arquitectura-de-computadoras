@@ -1,0 +1,10 @@
+rev:
+
+Imprime la reversa de una cadena. Si no se especifica un archivo,
+se utiliza la entrada estandar (solo una linea)
+
+Sinopsis:
+rev [file]
+
+Argumentos:
+file- Nombre del archivo de texto a revertir     

@@ -1,0 +1,10 @@
+cat:
+
+Concatena los archivos y los muestra en pantalla
+
+Sinopsis:
+cat [file1] [file2]
+
+Argumentos:
+file1 - Nombre del primer archivo
+file2 - Nombre del segundo archivo       

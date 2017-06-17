@@ -1,0 +1,6 @@
+exit:
+
+Termina la ejecucion del interprete de comandos
+
+Sinopsis:
+exit       
